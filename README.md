@@ -78,10 +78,6 @@ pip install PyQt5 gTTS pygame requests
 - **Integrate Real Translation/Grammar APIs**: Replace the mock functions with actual API calls.
 - **Enhance Flashcards and Lists**: Import/export from CSV, add spaced repetition, etc.
 
-## Screenshots
-
-*Add screenshots of the main interface, dictionary tab, flashcard mode, and dark mode here!*
-
 ## Troubleshooting
 
 - If you encounter issues with audio playback:
@@ -89,14 +85,3 @@ pip install PyQt5 gTTS pygame requests
     - Check your system's audio output settings.
 - If the GUI does not start, check that all dependencies are correctly installed and use Python 3.7+.
 
-## License
-
-MIT License
-
-## Author
-
-- [Enockdeghost](https://github.com/Enockdeghost)
-
----
-
-*kiswazi_app: A modern Swahili-English dictionary and language learning desktop app!*
