@@ -701,7 +701,7 @@ class kiswaziDictionary(QMainWindow):
         if suggestions:
             self.grammar_results.setText("Suggestions:\n" + "\n".join(f"• {s}" for s in suggestions))
         else:
-            self.grammar_results.setText("No grammar issues detected!")
+            self.grammar_results.setText("hakuna grammar issues detected!")
     
     def load_search_history(self):
         self.history_list.clear()
@@ -880,7 +880,7 @@ class kiswaziDictionary(QMainWindow):
                 
                 cursor = self.db.conn.cursor()
                 
-                # Import search history
+                # histor ya kisearch
                 for item in data.get('search_history', []):
                     cursor.execute("INSERT OR IGNORE INTO search_history (word, timestamp) VALUES (?, ?)",
                                  (item['word'], item['timestamp']))
