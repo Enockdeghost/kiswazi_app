@@ -1,3 +1,4 @@
+# don't forget to add comment in each part
 import sys
 import json
 import sqlite3
