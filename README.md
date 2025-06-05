@@ -7,7 +7,6 @@ kiswazi_app is a modern, feature-rich desktop dictionary and language learning t
 - **Comprehensive Dictionary**: Search for words, view definitions, part of speech, pronunciation, etymology, example sentences, synonyms, and antonyms.
 - **Word of the Day & Random Word**: Get inspired with a new word every day or discover random vocabulary.
 - **Search History & Bookmarks**: Keep track of your previous searches and bookmark important words for quick access.
-- **Custom Word Lists**: Create your own vocabulary lists for GRE, TOEFL, business terms, or custom learning.
 - **Flashcard Practice**: Practice vocabulary using interactive flashcards with definitions.
 - **Translator**: Translate text between several languages (mock implementation; can be integrated with real APIs).
 - **Grammar Checker**: Quickly check your grammar and get suggestions (simple mockup, extendable for advanced corrections).
